@@ -2,10 +2,18 @@
 
 中文 · [English](./README.md)
 
+[![Vercel](https://img.shields.io/badge/Vercel-deployed-black?logo=vercel)](https://civilization-rise-and-collapse.vercel.app/)
+[![Last commit](https://img.shields.io/github/last-commit/wfxu/civilization-rise-and-collapse)](https://github.com/wfxu/civilization-rise-and-collapse/commits/main)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](./LICENSE)
+
 博物馆级别的「战略指挥中心」风格实时模拟器：在程序生成的大陆上，多个文明从聚落、扩张、贸易、战争、瘟疫到崩溃的完整生命周期。所有视觉元素纯代码生成，不使用任何图片、贴图、视频或外部地图。
 
 **在线演示：** https://civilization-rise-and-collapse.vercel.app/
 **源码：** https://github.com/wfxu/civilization-rise-and-collapse
+
+![主视图](./screenshots/hero.png)
+
+![演示动画](./screenshots/demo.gif)
 
 ---
 

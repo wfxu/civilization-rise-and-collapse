@@ -2,10 +2,18 @@
 
 [中文](./README.zh-CN.md) · English
 
+[![Vercel](https://img.shields.io/badge/Vercel-deployed-black?logo=vercel)](https://civilization-rise-and-collapse.vercel.app/)
+[![Last commit](https://img.shields.io/github/last-commit/wfxu/civilization-rise-and-collapse)](https://github.com/wfxu/civilization-rise-and-collapse/commits/main)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](./LICENSE)
+
 A real-time, museum-grade strategic-command-center simulator of multiple civilizations rising, trading, fighting, plaguing and collapsing on a procedurally generated continent. Pure code, no images / textures / videos / external maps.
 
 **Live demo:** https://civilization-rise-and-collapse.vercel.app/
 **Source:** https://github.com/wfxu/civilization-rise-and-collapse
+
+![Hero](./screenshots/hero.png)
+
+![Demo](./screenshots/demo.gif)
 
 ---
 
